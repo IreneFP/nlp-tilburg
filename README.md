@@ -1,2 +1,2 @@
-# nlp-tilburg
+# Natural Language Processing
 Tilburg University Class
